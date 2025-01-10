@@ -9,7 +9,9 @@ Exercises:
 3.	Locating Duplicate Rows-
 
 A. Displaying Duplicate Rows (Version A).
+
 B. Duplicate rows in a manner (Version B).
+
 C. Unique rows (Version C).
 
 4.	Handling Percent (%) Values- 
