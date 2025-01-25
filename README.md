@@ -1,4 +1,4 @@
-# Analytical-thinking-exercises
+# Practical-techniques-use-cases
 
 Exercises:
 
